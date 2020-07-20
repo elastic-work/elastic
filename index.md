@@ -12,7 +12,7 @@
 3. 社区主要目的是开放技术，需要有Open的心态，共享技术，开心工作，开心搞技术，弹性工作，有问题可以随时咨询。
 
 #### 社区地址是什么？
-[https://github.com/elastic-work]https://github.com/elastic-work
+[https://github.com/elastic-work](https://github.com/elastic-work)
 
 
 
