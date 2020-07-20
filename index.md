@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## 欢迎加入ElasticWork社区
 
-You can use the [editor on GitHub](https://github.com/elastic-work/elasticlink/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### 在这里你可以做什么？
+- 方向1 整理一些技术文档；
+- 方向2 翻译一些技术文档；
+- 方向3 提交各种算法解决思路；
+- 方向4 完善社区文化文档；
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 具体内容是什么？
+1. 需要面试通过才可以参与；
+2. 需要定期完成分配的任务；
+3. 社区主要目的是开放技术，需要有Open的心态，共享技术，开心工作，开心搞技术，弹性工作，有问题可以随时咨询。
 
-### Markdown
+#### 社区地址是什么？
+https://github.com/elastic-work
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elastic-work/elasticlink/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 如何参与某个项目？
+##### Git提交流程：
+1. fork一份到个人仓库
+2. git clone 个人仓库中的对应项目
+3. git remote add 组织名字 组织仓库地址
+4. 本地做了修改
+5. git add 
+6. git commit 这里记得描述信息加个emoj
+7. git pull 组织名字 master
+8. git push到自己仓库
