@@ -23,7 +23,7 @@
 3. git remote add 组织名字 组织仓库地址
 4. 本地做了修改
 5. git add 
-6. git commit 这里记得描述信息加个emoj
+6. git commit 这里记得描述信息加个emoj [点击跳转到emoj地址](https://gitmoji.carloscuesta.me/)
 7. git pull 组织名字 master
 8. git push到自己仓库
 9. 在自己的仓库中点击pull request提交合并请求 原分支为自己仓库中的分支，目的分支为组织仓库中的分支
