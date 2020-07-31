@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>今天学什么呀</title>
+    <style media="screen">
+      body{
+        text-align:center;
+      }
+      span{
+        display: block;
+        margin-top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>猜猜今天学什么呀？</h1>
+    <button type="button" name="button" id="start">随机抽一抽</button>
+    <button type="button" name="button" id="stop">停</button>
+    <span></span>
+    <script type="text/javascript">
+      window.onload = function(){
+        var start = document.getElementById('start');
+        var stop = document.getElementById('stop');
+        var span = document.getElementsByTagName('span')[0];
+        var Arr = ['HTML','CSS','JavaScript','jQuery','BootStrap','Vue.js','ES6','WeChat','Node.js'];
+        var timer = null;
+        span.innerText = Arr[0];
+        start.onclick = function(){
+          clearInterval(timer);
+
+          timer = setInterval(function(){
+            var index = parseInt(Math.random() * Arr.length);
+            span.innerText = Arr[index];
+          },100);
+        };
+        stop.onclick = function(){
+          clearInterval(timer);
+        }
+
+      }
+    </script>
+  </body>
+</html>
