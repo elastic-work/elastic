@@ -37,6 +37,6 @@
 
 #### 团队成员
 
-![image](https://github.com/zxwin0125/elasticlink/images/11.jpg)
-![image](https://github.com/zxwin0125/elasticlink/images/123.jpg)
-![image](https://github.com/zxwin0125/elasticlink/images/333.jpg)
+![image](https://github.com/elastic-work/elasticlink/tree/master/images/11.jpg)
+![image](https://github.com/elastic-work/elasticlink/tree/master/images/123.png)
+![image](https://github.com/elastic-work/elasticlink/tree/master/images/333.png)
