@@ -34,3 +34,9 @@
 - [git官方英文版教程：](https://git-scm.com/docs)
 - [git官方简体中文教程：](https://git-scm.com/book/zh/v2)
 - [github官方教程](https://lab.github.com/)
+
+#### 团队成员
+
+![image](https://github.com/zxwin0125/elasticlink/images/11.jpg)
+![image](https://github.com/zxwin0125/elasticlink/images/123.jpg)
+![image](https://github.com/zxwin0125/elasticlink/images/333.jpg)
