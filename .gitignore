@@ -1,6 +1,12 @@
-*.idea
-.idea
-.idea/*
-.idea/misc.xml
+# Created by .ignore support plugin (hsz.mobi)
+### VisualStudioCode template
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
 
-.idea/workspace.xml
+# Local History for Visual Studio Code
+.history/
+
