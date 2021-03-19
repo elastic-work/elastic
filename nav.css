@@ -234,6 +234,12 @@ padding:10px;
 .table-center  tr th, .table-center  tr td{
 border:1px solid #0094ff;
 }
-
+.inline-block{
+    display:inline-block;
+}
+.back-home{
+    position:absolute;
+    left:25%;
+}
 
 </style>
