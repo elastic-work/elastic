@@ -76,7 +76,7 @@ padding:3px
 6px;
 margin-right:2px;
 background:#fff
-url(img/search_bg.png)
+/* url(img/search_bg.png) */
 no-repeat;
 border:1px
 solid
@@ -93,7 +93,7 @@ width:97px;
 height:34px;
 vertical-align:top;
 _padding-top:1px;
-background:url(img/search_bg.png)
+/* background:url(img/search_bg.png) */
 no-repeat
 -202px
 bottom;
@@ -108,7 +108,7 @@ width:95px;
 height:32px;
 padding:0;
 background:#ddd
-url(img/search_bg.png)
+/* url(img/search_bg.png) */
 no-repeat
 0
 -35px;
@@ -195,7 +195,7 @@ margin: 2px;
 .sites
 dt
 {
-width:60px;
+width:150px;
 }
 .sites
 dd
